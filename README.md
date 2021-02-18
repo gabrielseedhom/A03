@@ -19,28 +19,28 @@ To make ensure it's readability, make sure to make the github repository public 
 
 Glossary:
 
-Branch - code that does not effect the procedure and is the main branch
+**Branch** - code that does not effect the procedure and is the main branch
 
-Clone - downloads a repo into the local computer
+**Clone** - downloads a repo into the local computer
 
-Commit - change to the file that can be used to trace the history of the changes made in the repo on github
+**Commit** - change to the file that can be used to trace the history of the changes made in the repo on github
 
-Fetch - downloads everything, file and commits included into a local repo
+**Fetch** - downloads everything, file and commits included into a local repo
 
-GIT - The software for tracking changes on a file, very collabarative and is one of the most popular software for coders to work together on
+**GIT** - The software for tracking changes on a file, very collabarative and is one of the most popular software for coders to work together on
 
-Github - the internet host (location) for the Git software
+**Github** - the internet host (location) for the Git software
 
-Merge - puts the changes from multiple files into one single file, literally "merges" the code into one
+**Merge** - puts the changes from multiple files into one single file, literally "merges" the code into one
 
-Merge Conflict - When the Git software does not and/or cannot automatically fix the differences into multiple files of code
+**Merge Conflict** - When the Git software does not and/or cannot automatically fix the differences into multiple files of code
 
-Push - used to "push"local repo mateiral into a remote repo or location
+**Push** - used to "push"local repo mateiral into a remote repo or location
 
-Pull - the collaborative essence of Git, it makes suggestions on merged code with other programmers and can allow one to pull their own work out of a shared code
+**Pull** - the collaborative essence of Git, it makes suggestions on merged code with other programmers and can allow one to pull their own work out of a shared code
 
-Remote - the place where collaborators on a file go to make changes to the file and share their changes
+**Remote** - the place where collaborators on a file go to make changes to the file and share their changes
 
-Repository - The storage space where directories are saved and can be edited
+**Repository** - The storage space where directories are saved and can be edited
 
 
