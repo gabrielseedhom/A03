@@ -17,6 +17,10 @@ Create the new repoistory in Github by clicking the new or plus sign and begin y
 
 To make ensure it's readability, make sure to make the github repository public and click README.MD file 
 
+Git was designed to be a collaborative workspace for programming and Github is the browser based location for files. Webstorm is the application that the Git
+
+software is on 
+
 Glossary:
 
 **Branch** - code that does not effect the procedure and is the main branch
